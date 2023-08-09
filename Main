@@ -4,6 +4,6 @@ layer 7
 pkg upgrade
 pkg install git
 pkg install python3
-git clone https://github.com/TermuxHackz/Hammer
+git clone 
 cd Ddos.tools
 python3 Ddos.tools.py
